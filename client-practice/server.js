@@ -1,4 +1,4 @@
-// REST client example
+// REST client practice
 
 // import path package which is included with Node. Allows us to manipulate the path cross-platform.
 const path = require("path");
