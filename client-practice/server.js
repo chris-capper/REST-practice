@@ -26,6 +26,7 @@ app.post("/add", (req, res) => {
     });
 });
 
+// set the server to listen on port 5000 for requests
 app.listen(5000, () => {
     console.log('Server is running on port 5000.');
 });
